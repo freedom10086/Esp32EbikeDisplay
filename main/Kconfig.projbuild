@@ -1,0 +1,9 @@
+menu "Project Configuration"
+
+    config LCD_TOUCH_ENABLED
+        bool "Enable LCD touch"
+        default y
+        help
+            Enable this option if you wish to use display touch. You can select from three touch controllers.
+
+endmenu

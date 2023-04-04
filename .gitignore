@@ -1,0 +1,6 @@
+/dependencies.lock
+/sdkconfig.old
+
+/build/
+/cmake-build-debug/
+/managed_components/
