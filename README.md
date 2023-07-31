@@ -35,3 +35,13 @@ LP_GPIO5  LP_UART_TX
 STRAPPING  
 IO8 上拉
 IO9 上拉接开关切换下载模式
+
+### s3 spi
+|  GPIO   | SPI  |  SPI   |
+|  -----  | ---- | ------|
+| GPIO9   | FSPIHD||
+| GPIO10  | FSPICS0|CS|
+| GPIO11  | FSPID|MOSI|
+| GPIO12  | FSPICLK|CLK|
+| GPIO13  | FSPIQ|MISO|
+| GPIO14  | FSPIWP||
